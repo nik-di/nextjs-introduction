@@ -1,0 +1,12 @@
+.navigation {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    background-color: darkblue;
+    text-decoration: none;
+    color: #fff;
+    height: 40px;
+};
